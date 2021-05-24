@@ -6,7 +6,7 @@ Note that the original data was sourced at [https://assets.publishing.service.go
 The app that uses this data file is expected to have the following header/fields as the first line:
 ```Postcode,Area,SourceOfFunding,EffectiveFrom,EffectiveTo```
 
-The Postcode, Area and EffectiveFrom columns are used in the app, so must be the 1st, 2nd and 4th columns respectively in the data file
+The Postcode, Area, EffectiveFrom and EffectiveTo columns are used in the app, so must be the 1st, 2nd, 4th and 5th columns respectively in the data file
 
   
 
